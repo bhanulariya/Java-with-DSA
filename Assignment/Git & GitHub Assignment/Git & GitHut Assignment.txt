@@ -1,0 +1,67 @@
+1. What is Git?
+
+Ans- Git is a distributed version control system that helps developers track changes in their code, collaborate efficiently, and manage project versions without losing historical data.
+
+2. What do you understand by the term ‘Version Control System’?
+
+Ans- A Version Control System (VCS) is a tool that records changes made to files over time. It allows teams to restore previous versions, manage updates, and collaborate without overwriting each other’s work.
+
+3. What is GitHub?
+
+Ans- GitHub is a cloud-based platform that hosts Git repositories. It enables developers to store code online, collaborate through pull requests, manage issues, and integrate automation workflows.
+
+4. Mention some popular Git hosting services.
+
+Ans- Popular Git hosting services include:
+
+-GitHub
+-GitLab
+-Bitbucket
+-Azure Repos
+-AWS CodeCommit
+
+5. Different types of Version Control Systems.
+
+Ans- Version Control Systems are generally categorized into:
+
+- Local Version Control System
+
+Stores versions on a single computer.
+
+Example: RCS.
+
+- Centralized Version Control System (CVCS)
+
+All versions are stored on one central server.
+
+Examples: SVN, Perforce.
+
+- Distributed Version Control System (DVCS)
+
+Every developer has a full copy of the repository.
+
+Examples: Git, Mercurial.
+
+6. What benefits come with using Git?
+
+Ans- Key advantages of Git include:
+
+Fast performance for commits, merges, and branching
+
+-Ability to work offline
+-Full history stored locally
+-Easy collaboration through branches
+-Strong backup and recovery mechanisms
+-Smooth integration with hosting platforms like GitHub
+
+7. What is a Git repository?
+
+Ans- A Git repository is a storage space where your project’s files and their complete version history are saved. It keeps track of every change made to the project.
+
+8. How can you initialize a repository in Git?
+
+Ans- You can initialize a new Git repository using the command:
+
+git init
+
+This command prepares your project folder for version tracking by creating a .git directory.
